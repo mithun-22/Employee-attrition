@@ -25,14 +25,23 @@ Provides an interactive web app where you can input employee details and get a p
 📁 Project Files
 
 bash
+
 Copy
+
 Edit
+
 employee-attrition/
+
 ├── app.py                # Streamlit app
+
 ├── employee_attrition.csv  # Dataset
+
 ├── model.pkl             # Trained model
+
 ├── scaler.pkl            # Scaler for input features
+
 ├── requirements.txt      # Required libraries
+
 └── README.md             # Project guide
 
 📊 About the Dataset
